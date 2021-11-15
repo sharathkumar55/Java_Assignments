@@ -1,0 +1,12 @@
+
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¼•Éı
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ü÷ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äš„úÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ãŒúïıÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(³¥û†øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğšòù

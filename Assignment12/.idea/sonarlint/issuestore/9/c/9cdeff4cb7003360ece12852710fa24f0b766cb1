@@ -1,0 +1,10 @@
+
+y	java:S116"]Rename this field "year_of_enrollment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Õº™8¨£‘ïÑ/
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ææé­şÿÿÿÿ8²£‘ïÑ/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8·£‘ïÑ/
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8·£‘ïÑ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¸£‘ïÑ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÌ†¼8¹£‘ïÑ/

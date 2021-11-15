@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÜÚÙûÿÿÿÿ
+J
+java:S1481"/Remove this unused "tempValue1" local variable.(º©Â¨ùÿÿÿÿ
+J
+java:S1481"/Remove this unused "tempValue2" local variable.(µêƒ¢þÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(„û‚ÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ëä

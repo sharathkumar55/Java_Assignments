@@ -1,0 +1,36 @@
+
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ºŞÔÌüÿÿÿÿ8ıš•ïÑ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(–œªÔüÿÿÿÿ8„›•ïÑ/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(û¡âÿÿÿÿÿ8†›•ïÑ/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ı½éñ8›•ïÑ/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ƒÒÑ8›•ïÑ/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(«öã¼8–›•ïÑ/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(±æÛùÿÿÿÿ8™›•ïÑ/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(×î–Ôøÿÿÿÿ8œ›•ïÑ/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.( ŞĞ¶8 ›•ïÑ/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(†”Èäûÿÿÿÿ8¢›•ïÑ/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(İŠ×Èúÿÿÿÿ8¤›•ïÑ/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ÉòåŠ8¦›•ïÑ/
+]	java:S125@"<This block of commented-out lines of code should be removed.(È˜ùÿÿÿÿ8¨›•ïÑ/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ƒÅ–©8¬›•ïÑ/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(¹±²’ûÿÿÿÿ8®›•ïÑ/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(Ö¢¡ïşÿÿÿÿ8²›•ïÑ/
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(¿ˆ¢Ïÿÿÿÿÿ8´›•ïÑ/
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(È¶ü8·›•ïÑ/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(»’à8¸›•ïÑ/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(Œ¼Ö†şÿÿÿÿ8½›•ïÑ/
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(®ª‘ûüÿÿÿÿ8¾›•ïÑ/
+L
+java:S1197Z"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Ä›•ïÑ/
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(”£Îè8óó¢ŒÒ/
+{
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(©û¯ìşÿÿÿÿ8Í›•ïÑ/
+s
+java:S1192"QDefine a constant instead of duplicating this literal "Computer Science" 7 times.(‘ûíúÿÿÿÿ8×›•ïÑ/
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 6 times.(‘ûíúÿÿÿÿ8Ø›•ïÑ/
+h
+java:S1192"KDefine a constant instead of duplicating this literal "Electronic" 5 times.(Ôñà8Ù›•ïÑ/
+m
+java:S3655A"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÉòåŠ8üô¢ŒÒ/

@@ -1,0 +1,20 @@
+
+X
+java:S1610"6Convert the abstract class "Rodent" into an interface.(¿¾²ıÿÿÿÿ8ƒ³¯îÑ/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(İµ¶•8§³¯îÑ/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡ÖÀ8«³¯îÑ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŠùºÌøÿÿÿÿ8á³¯îÑ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù£Öüÿÿÿÿ8ö³¯îÑ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡Íş½8û³¯îÑ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®³Î¾8€´¯îÑ/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(©‚÷¬8…´¯îÑ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(©”§äıÿÿÿÿ8´¯îÑ/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(™úÃ·8”´¯îÑ/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(¹ÿˆùÿÿÿÿ8—´¯îÑ/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(§×²³8œ´¯îÑ/
+L
+java:S1197<"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8¤´¯îÑ/
+L
+java:S1197="*Move the array designators [] to the type.(’—ı´ÿÿÿÿÿ8§´¯îÑ/

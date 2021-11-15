@@ -1,0 +1,13 @@
+
+[
+java:S1659"@Declare "end" and all following declarations on a separate line.(Åª¶½øÿÿÿÿ
+E
+java:S1874"/Remove this use of "setYear"; it is deprecated.(ÛÉŸ 
+E
+java:S1874"/Remove this use of "getYear"; it is deprecated.(ÛÉŸ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İŞƒœüÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ì¤ùÔùÿÿÿÿ
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8¬É©ïÑ/
+a
+java:S1192"KDefine a constant instead of duplicating this literal "dd-MM-yyyy" 3 times.(³ğÏ÷
